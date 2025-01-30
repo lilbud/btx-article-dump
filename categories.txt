@@ -1,0 +1,41 @@
+Album Review
+Concert Review
+Film Review
+Commentary
+Thesis
+Essay
+News
+Interview
+Other
+
+YYYY-MM-DD_Author_Source_Title(up to 50).md
+
+p88:
+2023-01-12_ABC_KSLX_Bruce-Springsteen-Fans-Gather-To-Try-To-Hear-Tour-Rehearsals.md
+
+1985-03-21_Katherine-Tulich_Sydney-Morning-Herald_Springsteen-Makes-Us-True-Believers.md
+
+
+further categorize like so:
+Album Review/
+    Greetings
+    WIESS
+    ...
+
+Concert Review/
+    YYYY?
+
+Film Review/
+    No Nukes
+
+Interview/
+    Bruce
+    Roy
+    Stevie
+    ...
+
+News
+    Tour
+    Album
+    ...
+

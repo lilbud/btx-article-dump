@@ -1,0 +1,115 @@
+---
+title: "Save Me Somebody: Bruce Springsteen's Rock 'n' Roll Covenant"
+author: "Cornel Bonca"
+source: "Killing the Bhudda"
+date: "2001-07-29"
+category: "Essay"
+---
+
+The Boss will take you to the river if you help him get there.
+
+I. "The Ministry of Rock and Roll"
+
+One night during his 1999-2000 tour with the E Street Band, midway through an elongated version of "Light of Day", Bruce Springsteen stopped the song in its tracks to make a thunderous speech, in that pseudo-evangelist voice his fans know well by now, about 'the power, the glory, the ministry of rock 'n' roll!"
+
+Anthony DeCurtis, reporting on the opening of the tour for Rolling Stone, thought it was shtick, and "hilarious" shtick at that. But while it was hilarious, it wasn't really shtick. What Springsteen was doing was putting on a mask that enabled him to say things he wanted to say -- things he's been saying, actually, for twenty years in interviews -- without coming off as a deluded messianic rock star.
+
+There's almost nothing worse in pop discourse than reading about Bruce Springsteen from a Springsteen fanatic. Critical enthusiasm for Springsteen takes decidedly different forms from, say, the critical zeal surrounding Madonna, which comes off as either spooky show-biz worship or (among highbrows) the sort of semiotic hysterics that gets one named to Modern Language Association pop culture panels. It's even different from Dylan fanaticism, which tends to fall back on Dylan's own remoteness, cool and irony when critical adoration gets too sticky.
+
+But Springsteen isn't cool and remote, he's sweaty, present, and very there. The forms of irony his music takes aren't cute or postmodern, which is to say he's not fundamentally evasive, which is to say -- and here comes trouble for any critic writing around the millennial hour -- he's sincere. Springsteen fanatics don't just love the work or the act. While they go through all sorts of verbal contortions to hide it, the fact is they deeply admire -- O.K., they love -- the man.
+
+In a pop landscape that's gone way beyond the music industry's traditional cynical button- pushing of audience emotion to the point where the audience fervently embraces its own manipulation as pop's puerile point (see Britney Spears, the boy bands, Limp Bizkit, etc.), Springsteen's genuineness and conviction, not to mention his command, embodiment, and extension of rock mythology, feels atavistic. It's also disarmingly heroic: the critics in his corner can hardly believe their own -- and rock's -- good fortune to still have him around.
+
+It's a little embarrassing how naked a love we -- I'll drop the evasive pronoun act, if you don't mind -- have for him. Here's what Marshall Berman, who isn't just a mere rock critic but a major league intellectual, once said about this love:
+
+It is extraordinary how Bruce Springsteen has worked his way into so many people's lives. Ask them to think of their peak experiences over the past decade: Alongside the intimate private moments with their lovers, spouses, and kids, in deepest privacy, they'll remember moments in immense public spaces with Bruce and 20,000 others. And the fact that the feeling is shared and multiplied -- indeed promoted and orchestrated -- doesn't diminish the ecstasy and communion. I remember my moment... I had to see the people around me; and see myself, with new eyes. I felt at that moment that I would trust this man with my life.
+
+Now it's easy to spy in this sort of thing a dangerous hero worship that flashes images of Nuremberg to the mind -- images that admittedly got reinforced during Springsteen's 1984-5 Born in the U.S.A. tour. But I don't know any Springsteen lovers who let such cynicism get to them. Instead, we merely nod our heads in appreciation at remarks like Berman's, as if to say, "Yeah, totally know what he means. I've felt that, I remember it, I treasure it." We're not afraid of giving ourselves wholeheartedly to a figure who, almost alone in the pop world, makes us feel as if we've got one -- i.e. a whole heart.
+
+That trust that Berman talks about is something I'm sure (I trust) Springsteen is eager to displace from his person onto his music, or better, to the circle of feeling that gets created and reinforced as artist and audience egg each other on in performance or speak to one another across his records. It's essentially a covenant that's been struck between Springsteen and his audience from way back, echoes of which are heard in everything from "Thunder Road", to "The Promised Land", and "The Ties That Bind", and gets summed up on an 80s B-side called "Be True": "You be true to me, and I'll be true to you." What's striking about this covenant, and what distinguishes it from most other rock experiences, is how morally complex this simple- sounding promise turns out to be. And moral complexity is very hard to talk about in a rock context without sounding like a solemn, righteous egghead.
+
+Yet Springsteen's music is demonstrably moral not because it does anything as simplistic as espouse a particular ethic (the idea of him pulling a Christian conversion album, like Dylan's Slow Train Coming, is unthinkable) but because it creates a form of address (a style of will, to borrow an old, usefully eggheady idea from Susan Sontag) whose greatest concern and sympathy have to do with consequences: What happens when we act out of passion or cowardice, weakness or strength, love or hate, the crazed desire for redemption and transcendence? How do we deal with guilt? And what happens when all these things flow into one another, when they become part of what Springsteen calls (on Lucky Town) the Big Muddy? Rock 'n' roll isn't supposed to be about consequences, but Springsteen has turned it to moral account in a way which forces its Dionysian passion to face the disasters that often follow in its wake.
+
+Skim the Springsteen catalogue -- from "Incident on 57th St." to "Born to Run" and Thunder Road", from "Badlands" to "Adam Raised A Cain" and "Darkness on the Edge of Town", from "The River" to "Point Blank" and "Stolen Car", then on to "Atlantic City", "State Trooper", "Born in the U.S.A." "Seeds", "Tunnel of Love", "Lucky Town", "Living Proof", "Human Touch", "With Every Wish", "The Ghost of Tom Joad", "Youngstown", and "Land of Hope and Dreams" and "American Skin (41 Shots)" from the recently released CD called Live in New York City. What you get over and over are dramatic enactments pitting a Dionysian spirit desperate for release against an equal and opposite force desperate for moral containment. This struggle frankly recalls what Nietzsche said made for great drama in The Birth of Tragedy, and goes a long way toward explaining why otherwise sober thinkers like Marshall Berman would trust Springsteen with their lives.
+
+To say Springsteen reliably delivers the cathartic goods is one way of putting it; another is to push the thesis here past the idea that Springsteen's power and originality lies in his moral address to the idea that Springsteen's music at its best is spiritually rejuvenative, even, in its modest way, religious. Which brings us back to what Springsteen called "The Ministry of Rock and Roll."
+
+II. "I'm Not Bullshittin' Back Here"
+
+Springsteen indeed does think that rock is ministerial; he does think it's redemptive; he does think that rock music literally saves people's lives -- ask Patti Smith, ask Eddie Vedder. He also knows that you can't just say this stuff straightaway without a mask, especially in front of 20,000 people who can't keep their eyes off you. The mask supplies the necessary ironic distortion, and then you deliver the meaning, literally, in the moment, in the music. Live in New York City does this with nearly unparalleled power.
+
+I'm not going to go through the whole album, though it's tempting to note how the initial trio of songs ("My Love Will Not Let You Down", "Prove It All Night", "Two Hearts",) are entirely about, and passionately enact, Springsteen's commitment to his band and his audience, his commitment to the covenant he needs to help forge with his fans if the music is going to do its vital work.
+
+It's also tempting to drop a few hundred words about "Youngstown", which Springsteen has entirely transformed from its somber folk studio version (on The Ghost of Tom Joad) by lacing it with a new and monstrous rock guitar figure as well as a guitar solo (courtesy of Nils Lofgren) that with slow and accumulating power builds and then explodes past the dead-end nihilism in the lyrics ("When I die I don't want no part of heaven/ I would not do heaven's work well/ I pray the devil comes and takes me/ To stand in the fiery furnaces of hell") and forges for the song's suffering protagonist a steely dignity and grace.
+
+Finally, it seems necessary to remind ourselves that Bruce Springsteen was 50 years old when these concerts were recorded, and that it's difficult to imagine the other great rock singers of roughly Springsteen's generation -- McCartney, Daltrey, Van Morrison, Jagger, Plant -- or even anyone ten or twenty years younger than Springsteen - say, Bono, Zack de la Rocha or Vedder -- singing with his sheer power, range, expressiveness or energy over a three hour period.
+
+What I'd like to do is stick with the three songs that end the concert proper on the CD --the marathon showstopper "Tenth Avenue Freeze-Out", and then the two new songs, "Land of Hope and Dreams", and "41 Shots."
+
+"Tenth Ave Freezeout" has served as a barnstorming finale in the past -- it's a perfect number to introduce the band -- but while it does function that way here, Springsteen takes it to an entirely different place as well. He uses the song essentially the way he used "Light of Day" on earlier legs of the tour, to make manifest the spiritual purpose of the concert. He does it first by quieting down the song's R 'n' B stomp and slithering into a version of "Take Me to the River" which is equal parts Al Green and Jimmy Swaggart. (In the HBO filmed concert of the concert, first shown in April, there's even a close up of Springsteen's feet as they scoot and skip across the stage in mock tribute to Swaggart's ecstatic cross-the-stage shuffle.) Then slowing down further, he goes into an extended rap with the audience which borrows liberally from the styles of gospel revivalists and carnival barkers alike, though he never edges into straight parody, never gets merely "hilarious." Hiding behind the mask is a man who wants to mean everything he says.
+
+And this is what he says:
+
+That's where I want to go I want to go to that riverside I want to go to the river of life I want to go to that river of love I want to go to that river of faith And that river of hope.
+
+Tonight I want to go to that river of transformation Where you go to be changed. But you got to work at it -- that's right!
+
+I want to go that river of sanctification Where all life's graces and blessings fall down upon you like rain But you got to work at it.
+
+I want to go that river of resurrection Where everybody gets a second chance But you got to work at it.
+
+Tonight I want to go to that river of sexual healing -- and companionship I want to go find that river of joy and happiness.
+
+I'm not bullshittin' back here.
+
+But you don't stumble on those things by accident. You got to search them out, seek after them. And that's why we're here night after night after night after night. 'Cause you can't get to those places by yourself You got to have help!
+
+That's where I want to go tonight And I want you to go with me Because I need to go with you--that's why I'm here.
+
+In these last two lines, which basically sum up the covenant, the circle of feeling the entire concert is about creating and affirming, you can hear him -- and see him on the HBO tape -- as he entirely drops the barker/revivalist voice to speak in a voice that is most his own. Then back to the mask:
+
+And tonight I want to throw a rock and roll exorcism! A rock and roll baptism! A rock and roll bar mitzvah! That's right! -- We're going to do it all tonight -- everything -- right now I want the waters to fall on me and set me free, set you free?
+
+Life, love, faith, hope, transformation, sanctification, resurrection, sexual healing, companionship, joy, happiness: Springsteen is not bullshittin' back here. Springsteen's faith in these things -- his faith in rock's ability to bring these things to life, in fact -- comes as a desperate lunge for sustenance when other forms of faith, specifically Christianity, fail. (From "Human Touch": "Ain't no mercy on the streets of this town / Ain't no bread from heavenly skies / Ain't nobody drawing wine from this blood / It's just you and me tonight").
+
+In his early work, which is filled with fallen Catholic school boy images -- nuns, saints, crosses, church bells, etc -- there's no attempt to give the religious any weight, but since the late 80s, his lyrics have been filigreed with unironized religious images: "Cautious Man" (from Tunnel of Love) notes how the moonlight on the protagonist's wife's face fills "their room in the beauty of God's fallen light"; the tormented ex-lover in "I Wish I Were Blind" (from Human Touch) sees that "the world is filled / with the grace and beauty of God's hand"; the new father in "Living Proof" (from Lucky Town) calls his newborn son "a little piece of the Lord's undying light." The ritual, the rules, the submission of Christianity have dropped away, but the awe of the religious has remained and intensified, as has the sense of moral responsibility -- and for Springsteen it's rock and roll's job to help keep that awe, that responsibility and reverence toward life, alive.
+
+That's certainly the job of "Tenth Avenue Freezeout", which, after all the preachifying, plunges into a frenzy out of which Springsteen can hardly extricate himself. As you watch him extend the song into one more false finale after another, it's as if Springsteen's afraid to stop, as if he fears that the power, the glory, the ministry ends when the music does, and he can't stand it. Which is maybe why when his voice and body are just about ready to give out, he lets the guitars and drums surge to a giant crescendo and then he screams "SAVE ME SOMEBODY!" And if you have the HBO tape (the slo-mo button is great help here) you can look into his eyes and notice that he's stripped off the mask completely, and that he looks way past intense or committed or passionate or carried away and, for a brief moment, looks truly, beautifully insane. Possessed.
+
+III. "Faith Will Be Rewarded"
+
+The song that follows, "Land of Hope and Dreams", is a great hymn to America; not the real one, of course, but the dream America that accepts "saints and sinners", "losers and winners", "whores and gamblers"; the mythic America where "dreams will not be thwarted" and "bells of freedom ring."
+
+Lyrically, with the song's protagonist urging his love to join him on a train whose "big wheels roll through fields where sunlight streams", it's half Woody Guthrie and half Statue of Liberty opening her motherly arms. Without knowing Springsteen's back catalogue -- which is as chilling about darkness, evil, and unrelenting despair as any in rock ("Adam Raised A Cain", "Point Blank", "Nebraska", "Seeds", "State Trooper", and much of The Ghost of Tom Joad hold up well against, say, "Gimme Shelter" or Tonight's the Night) -- the new song's lyrics might seem trite, the way Blake's Songs of Innocence can if they're not framed by the Songs of Experience.
+
+But in context -- that of Springsteen's career, and more specifically, of the concert this comes at the tail end of -- "Land of Hope and Dreams" sounds earned, an affirmation that survives the crucible of suffering which is particular to those mad enough to still dream America's dream.
+
+But the song isn't just about America. It's about rock and roll as the special American conduit through which faith, hope, and love gets created, strengthened, and rejuvenated through community. The song begins with the same call that animates "Thunder Road" and "Born to Run": Baby, let's hit the road. "We'll take what we can carry and we'll leave the rest... Meet me in a land of hope and dreams." And like those songs, in performance it doesn't just tell the characters' story, but the story that's happening at the moment Springsteen sings it. The burden carried by the simplicity of the song's optimism is something Springsteen is obviously aware of -- he has to make himself and the audience believe not only that America is a land of hope and dreams, but that it's worth thinking this is a land of hope and dreams. And the only way he can pull it off is make the experience of the song ring with such life, love, faith, transformation and all the rest that the experience becomes its own argument. For me, the song is overwhelming and unassailable.
+
+After the first two verses, the song veers into a bridge that for its final seven minutes it never leaves. We never get back to a verse or chorus. And the bridge keeps affirming "this train" that carries the weary, the downhearted, the lost, promising to them that "dreams will not be thwarted." And if the train is America, the train is more crucially the concert itself, is rock itself -- Springsteen, the band, and the audience in its covenant all stirring themselves to create the communal spiritual strength needed to believe, in the lyrics' central line, that "faith will be rewarded."
+
+It ain't easy. Springsteen's been singing his heart out for two and a half hours already, and he's worn out. The song, moreover, is hard on the lungs and vocal cords. But he keeps at it, the E Street Band building layer upon layer of noise and power, until Bruce quiets them down to focus on the lyrics again:
+
+This train... Carries saints and sinners This train... Carries losers and winners
+
+And his voice suddenly starts to falter. On the video, you look at him, sopping with sweat, his eyes almost puffed shut, and you think, "This song's got a long way to go, how's he going to get through this?" It's as if he's slipped off the train he's singing about and is hanging on by his fingernails, like some desperate character in a Depression road movie. But then you hear and watch him regather himself out of some deep reserve:
+
+This train... Carries lost souls This train... Dreams will not be thwarted This train... Faith will be rewarded
+
+And as he sings this last line, he raises his right palm into the air, facing the crowd (a gesture he repeats each time he sings these words) and it's suddenly true in the moment: His faith in the crowd, in the music, in the vision the song's about, has given him the strength to burn through the moment of his weariness and exhaustion, and to emerge with renewed energy to keep the song alive and kicking. Faith indeed has been rewarded.
+
+The song keeps going (clocking in, finally, at almost ten minutes), with Springsteen bringing the crowd closer to the song's ardor. At one point, he calls to the crowd, "Let me see your hands!" and the ensuing roar urges whatever hesitant stragglers there are in the audience to climb aboard the big steel wheels. Springsteen keeps it up, exhorting, begging the crowd to stay with him: "Come on this train... come on this train... come on this train..." because he knows he can't stay on it if they don't, and then comes a scream that's up there with the best of Roger Daltrey's: "Say Yeeeeeeaaaaahhhh! -- which is nothing less than a desperate plea for the audience to give itself over to the covenant ("I want you to go with me because I need to go with you -- that's why I'm here."). As it ends, the crowd's roar is as loud and intense for this brand new song as for any of his verified classics, and one realizes that that's because it worked, triumphantly, the song's faith begetting faith in the song, Springsteen's faith in his audience, his audience's faith in him. Rock's recurring mytho-poetic magic has done its work again -- and if the audience isn't sitting there trusting this man with their lives, they at least know that nothing feels better than faith that will be rewarded.
+
+IV. "Baptized in These Waters"
+
+That Springsteen doesn't call it a night at this point is a measure of his own rock fanaticism as well as his deep desire to continually complicate his vision. The stage darkens, the crowd roar drops (though not enough for Bruce: during the intro he says, "We're going to need some quiet"), and the band goes into the dark, elegiac "American Skin (41 Shots)", which is about the Amadou Diallo murder case, in which an unarmed black man was shot at 41 times by New York City police officers in February 1999. The song made news because some New York Police Association leaders, claiming the song was anti-cop, went after Springsteen in public. But as Hendrick Hertzberg pointed out in The New Yorker soon after the ruckus, the song isn't anti-anything: It's a tortured meditation on the fear and violence occasioned by the history of American racism. In separate verses, the song takes up the horror of the Amadou family ("You're kneeling over his body in the vestibule / Praying for his life"), the panic of the officers right before they shot him ("Is it a gun, is it a knife / Is it a wallet, this is your life"), and of a young ghetto mother who we imagine has heard of the case and cautions her child as he heads off to school ("If an officer stops you / Promise me you'll always be polite / And that you'll never ever run away / Promise Mama you'll keep your hands in sight"). The band's four guitars and two keyboards build to an excruciating tension, which reaches its apogee when Springsteen sings:
+
+41 Shots... and we'll take that ride -- Cross that bloody river To the other side.
+
+41 Shots...got my boots caked in this mud -- We're baptized in these waters And in each others' blood.
+
+This is the concert's Song of Experience to counter "Land of Hope and Dreams", and it's perfectly poised. The river of life, love, hope, faith, transformation, sanctification, resurrection, sexual healing and companionship, joy and happiness alongside which the train gloriously rides in "Land of Hope and Dreams" is also a river of blood where "You can get killed just for living / In your American skin." And with that awful, awe-inspiring juxtaposition, Springsteen ends his concert and sends his fans back into the world.
+
+Springsteen's "ministry" preaches strength, love and faith before suffering and radical ambiguity. He borrows a Christian idiom, ironizes and then recovers it. It's a humanism produced by a community observing the laws of its covenant, finally, but a humanism juiced by whatever it is about rock's power that makes us feel that desire, dreams, and life itself are sacred.
+
+"Hold holy your highest hope", Nietzsche said. Springsteen is one of the few popular artists now who can credibly work at that level of romanticism and spiritual affirmation.
