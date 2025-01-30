@@ -1,3 +1,8 @@
+# STILL A WORK IN PROGRESS
+
+I still have a few things to do, namely organizing all the articles and renaming the files. Plus, removing any duplicates (of which there are a ton).
+
+---
 ## Intro:
 
 This repository contains a backup of the "The Articles Thread 1972-2023" from Backstreets Ticket Exchange forum. A thread started and largely maintained by a user named "Beazle" from 2012 until 2023. The point of the thread was simple, act as a single repository for as many Bruce Springsteen related articles as could be found.
