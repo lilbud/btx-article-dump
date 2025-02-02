@@ -1,3 +1,4 @@
+import datetime
 import json
 import re
 from pathlib import Path
@@ -6,13 +7,14 @@ import ftfy
 import html2text
 import httpx
 import pandas as pd
+import psycopg
 from bs4 import BeautifulSoup as bs4
 from dateparser import parse
+from psycopg.rows import dict_row
 from slugify import slugify
 from thefuzz import process
 
 base_folder = Path(Path(__file__).parent, "articles")
-splitpath = Path(base_folder, "split_unwrapped")
 
 
 def format_md(file: Path, h: html2text.HTML2Text) -> str:
@@ -37,7 +39,7 @@ def html_to_md():
 
 
 def unwrap_articles():
-    for folder in splitpath.iterdir():
+    for folder in base_folder.iterdir():
         print(folder.name)
 
         save_path = Path(base_folder, "split_unwrapped", folder.name)
@@ -81,7 +83,7 @@ def unwrap_articles():
 def print_article_info():
     articles = []
 
-    for folder in splitpath.iterdir():
+    for folder in base_folder.iterdir():
         # print(folder.name)
         for file in folder.iterdir():
             if file.suffix == ".md":
@@ -98,35 +100,46 @@ def print_article_info():
                 date = re.search(r"date\: (.*)", contents)
                 category = re.search(r"category\: (.*)", contents)
 
-                current = [category[1], date[1], source[1], author[1], title[1]]
+                title = slugify(title[1])
+                short_title = slugify(" ".join(title.split("-")[:6]))
 
-                current = [i.strip('"') for i in current]
-                articles.append(current)
+                if author == source:
+                    filename = slugify(" ".join([date[1], source[1], short_title]))
+                else:
+                    filename = slugify(
+                        " ".join([date[1], author[1], source[1], short_title]),
+                    )
 
-    df = pd.DataFrame(articles)
-    df.columns = ["category", "date", "source", "author", "title"]
+                print(filename)
 
-    pd.set_option("display.max_rows", None)
+    # conn = psycopg.connect(
+    #     "postgresql://postgres:password@localhost:5432/articledump",
+    #     row_factory=dict_row,
+    # )
 
-    # print(df.title.groupby(df.author.str.title()).sum().reset_index())
-
-    # for idx, name in enumerate(df["title"].value_counts().index.tolist()):
-    #     if df["title"].value_counts()[idx] > 1:
-    #         if len(set(df.loc[df.title == name].author.values)) > 1:
-    #             print("Name :", name)
-    #             print("Counts :", df["title"].value_counts()[idx])
-
-    #             print()
+    # cur = conn.cursor()
 
     # for i in df.itertuples():
-    #     if i.category == "Album Review":
-    #         print(f"{i.title}, {i.author}")
+    #     print(i.Index)
 
-    # df.to_csv("article_list.csv")
-    df1 = df.groupby(["title", "author"])
+    # for i in df.itertuples(index=False):
+    #     category = i.category
+    #     date = i.date
+    #     source = i.source
+    #     author = i.author
+    #     title = i.title
 
-    for i in df1.value_counts().index.tolist():
-        print(slugify(text=i[0], word_boundary=True, max_length=50))
+    #     if date != "Unknown" and date != "Various":
+    #         date = datetime.datetime.strptime(i.date, "%Y-%m-%d").date()
+    #     else:
+    #         date = None
+
+    #     cur.execute(
+    #         """INSERT INTO articles (category, date, source, author, title) VALUES (%s, %s, %s, %s, %s)""",
+    #         [category, date, source, author, title],
+    #     )
+
+    #     conn.commit()
 
 
 print_article_info()
