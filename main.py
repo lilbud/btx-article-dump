@@ -112,6 +112,11 @@ def print_article_info():
 
                 print(filename)
 
+                try:
+                    file.rename(f"{filename}.md")
+                except FileExistsError:
+                    file.rename(f"{filename}_1.md")
+
     # conn = psycopg.connect(
     #     "postgresql://postgres:password@localhost:5432/articledump",
     #     row_factory=dict_row,
