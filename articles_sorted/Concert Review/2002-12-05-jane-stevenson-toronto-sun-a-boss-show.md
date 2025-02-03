@@ -1,0 +1,45 @@
+---
+title: "A Boss Show!"
+author: "Jane Stevenson"
+source: "Toronto Sun"
+date: "2002-12-05"
+category: "Concert Review"
+---
+
+Springsteen and his E Street Band put on a powerhouse show of rock, revival and healing at the ACC last night
+
+'Come on up for the rising, come on up, lay your hands in mine", sang Bruce Springsteen during The Rising, the first song of his sold-out show at the Air Canada Centre last night.
+
+There were more than a few takers among the 19,000-plus fans who had gathered to worship at the feet of The Boss, touring again with his beloved E Street Band in support of their new album, The Rising.
+
+The 53-year-old New Jersey native last hit the road with the E Streeters in their highly publicized 1999/2000 reunion tour, which visited the ACC in May of 2000.
+
+But this time out seemed extra special and poignant given The Rising was mostly written in the months after 9/11, and is the first studio effort featuring Springsteen and E Streeters in 15 years.
+
+Last night's show, which sold out anywhere from 30 minutes to two hours depending upon whom you asked, was a combination powerhouse rock show, religious revival meeting and respectful time for healing.
+
+And it lasted for two-and-a-half-hours.
+
+"It's going to be a little quiet for the next few songs", explained Springsteen, as he led into the new songs Empty Sky and You're Missing.
+
+That such a tender moment could occur in an arena-sized venue while Springsteen and his wife, backup singer and acoustic guitarist Patti Scialfa, sweetly harmonized during Empty Sky was a testament to The Boss' powers as a performer.
+
+The quiet intensity was only matched later during another new song, Into The Fire, which saw Scialfa wailing away during the opening introduction before the tune eventually took off in a more hopeful direction.
+
+"May your strength give us strength, may your faith give us faith, may your hope give us hope, may your love bring us love", sang Springsteen and the entire band.
+
+His usual front line of Scialfa, sax man Clarence Clemons -- who seemed fully recovered from retinal surgery that postponed some shows last month -- guitarists Steven Van Zandt and Nils Lofgren, and back line of bassist Garry Tallent, drummer Max Weinberg and keyboardists Roy Bittan and Danny Federici, was supplemented by a female violinist.
+
+Her powers came to the forefront during the sombre You're Missing and the more optimistic and upbeat Waitin' On A Sunny Day, the latter prompting a spirited singalong which saw an impassioned Springsteen finally start to seriously work the room.
+
+He high-fived audience members, encouraged them to join him on the chorus and even performed his trademark slide on the knees at the front of the stage, to everyone's delight.
+
+Upping the ante were the anthemic chestnuts Cadillac Ranch, Badlands, She's The One and Thunder Road, which prompted a major jam session among the band members and increased crowd participation.
+
+Even the new song, Mary's Place, thrilled the room as Springsteen got up on Bittan's piano and whipped off his vest to huge cheers and applause.
+
+When it came to the two encores, it was mostly a no-holds-barred crowd- pleasing time -- or "Boss time!" as Van Zandt called it -- with such barnburners trotted out as Dancing In The Dark, Born In The U.S.A ., The Land Of Hope And Dreams, and yes, even Santa Claus Is Coming To Town, complete with white-fur trimmed red Santa hats.
+
+But nothing could match the overwhelming, uninhibited, air-punching joy that greeted Born To Run, which saw The Boss playing guitar at the front of the stage with dozens of outstretched hands reaching towards him.
+
+All this with the house lights on for the entire song.

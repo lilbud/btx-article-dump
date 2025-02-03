@@ -1,0 +1,39 @@
+---
+title: "Bruce Springsteen's 'High Hopes' a worthy successor (and companion) to 'Wrecking Ball'"
+author: "Tris McCall"
+source: "nj.com"
+date: "2014-01-06"
+category: "Album Review"
+---
+
+Some successful veteran rock musicians retire to the islands, never to be heard from again. Some become businessmen, others become producers of younger acts. A few even go into politics. Bruce Springsteen isn't interested in any of that. What Springsteen wants is a pulpit. Since "The Rising", each new album brings him closer to church — and he grows more comfortable in the mantle of the wizened preacher, shepherding his flock between the twin poles of sin and salvation.
+
+Gospel was one of the cornerstones of "Wrecking Ball", the uneven but inspiring 2012 album that reinvigorated his muse and slapped him awake after the long sleepwalk of "Working on a Dream." From gospel, the Boss borrowed both the slow mount to musical epiphany and language that speaks of perseverance through hard times. The religious imagery that has always been part of his work found its fullest expression yet on this album, which answered the emotional emptiness of the economic downturn with a spiritual salve.
+
+"High Hopes", the fast follow-up and companion piece to "Wrecking Ball" — which will be officially released Jan. 14, but is now streaming for free on cbs.com/springsteen — further illuminates these themes. It's misleading to say, however, that it expands upon them, because "High Hopes" is not designed to be a showcase of new material; it's dominated by older songs of relatively recent vintage that have never found a home on a Springsteen album. It also contains three covers.
+
+It is testament to how well Springsteen has managed to stay on message over the past decade that "High Hopes" coheres anyway. Once again, both the music and the storytelling strain toward the exuberance and transcendence of gospel.
+
+Once again, Springsteen is the minister in the chapel, offering guidance, sympathy and, occasionally, a raised fist of solidarity with the dispossessed.
+
+Sometimes he preaches outright. "Heaven's Wall", a minor-key rocker that begins with a gospel-inspired shout-along, is nothing but Biblical allusions, and suggests how deeply the Boss has had his nose buried in the Good Book recently. "This Is Your Sword" is a sermon framed by an old-school E Street Band arrangement. The atmospheric "Hunter of Invisible Game", which is redolent of the dust and grit of early Tom Waits, is a trip through Ezekiel's valley of dry bones.
+
+Like any passionate religious leader, Springsteen calls out false prophets: The moody "Harry's Place", a song that didn't make "The Rising", casts the Devil as a drug dealer presiding over an empire of night. Those themes are further developed on "Down in the Hole", a lyric of desperation that draws connections between 9/11 rescue workers and coal miners; in it, a near-scriptural flaming hell opens beneath our feet to swallow a haunted man. Light versus darkness, bondage versus release, physical lust versus spiritual desire — these are the minister's preoccupations. These elemental struggles have become the Boss"
+
+preoccupations, too.
+
+He even does elegies. The twin pillars around which the rest of "High Hopes"
+
+has been arranged are eloquent lamentations. "The Wall", a ballad written in memory of the early Shore rocker Walter Cichon, is an example of what Springsteen still does better than any other mainstream rocker, and gives an indication of why he's so revered in Nashville, too. His story is rich with carefully chosen details that amplify the emotional content and authenticity of the lyric. As he so often does, he gives his narrative a firm historical anchor and it's immediately apparent he's writing about real and consequential things: the legacy of the Vietnam War, Monmouth County in the 1960s, the camaraderie and competitiveness of youth culture.
+
+The pervasive sense of sadness and loss on "The Wall" is deepened by the phantom presence of the late Danny Federici, who decorates the song with an elegant, aching organ ride that, for all its simplicity, could have been played by no other musician. (Clarence Clemons, too, plays on several "High Hopes" cuts, but his contributions feel less meaningful.)
+
+The other meditation on death and loss is the best-known song here and, perhaps, the most controversial piece in Springsteen's discography. "American Skin (41 Shots)" was written in blunt language in response to the police shooting of Amadou Diallo, and revived on the Wrecking Ball Tour after the acquittal of George Zimmerman, the Florida neighborhood watchman who killed Trayvon Martin. The live versions of "American Skin" were fully embodied, and made Springsteen's desire for justice manifest — but did not adequately prepare the audience for the 7 ½-minute hailstorm of grief and rage on "High Hopes." The song was something of a dirge in its original incarnation, but this rendition is anything but: It builds to a thunderous climax crowned by two sword-slash guitar solos by Tom Morello, already well known as a prince of agitprop from his work with Rage Against the Machine.
+
+Alas, as "High Hopes" proves, a little Morello goes a long way. He is featured on eight songs, and if you're not sick to death of him by the end of the third, you've got a high threshold for flashy wah-wah and squealing Whammy- pedal six-string. His heavily affected sound — one designed to irritate as much as entertain — is an uncomfortable fit with the classicism of the E Street Band, and at times on "High Hopes", the clash of styles is all you can hear. Morello grabs "The Ghost of Tom Joad" by the hair and tortures him with an interminable solo that fits the dignified, Steinbeck-inspired character with an arena-rock headband and torn T-shirt.
+
+Morello's prominence means that "High Hopes" never feels quite as much like an E Street Band album as its rock arrangements suggest it should. This is a missed opportunity. The expanded version of the E Street Band that accompanied the Boss on the Wrecking Ball Tour was a fearsome outfit, capable of exposing hidden dimensions in older songs and breathing life into the sometimes-staid recorded versions of newer ones. (Morello was part of that expanded lineup during the Australian leg of the Tour.) Although this does feel more like a "band album" than "Wrecking Ball" did, and although the expanded group did participate in the recording sessions, it does not begin to tap into the full, awesome power of the flexible outfit that brought illumination to the Boss"
+
+sermons.
+
+This is a known problem with preachers — often, they're so wrapped up in their own message that they don't realize the deacons have something meaningful to say, too. But there's always next time. And at the pace Springsteen has been working, the next time is likely to come sooner than you'd think.

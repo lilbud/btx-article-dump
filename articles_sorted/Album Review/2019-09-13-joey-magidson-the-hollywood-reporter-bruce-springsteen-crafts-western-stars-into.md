@@ -1,0 +1,20 @@
+---
+
+title: "Bruce Springsteen Crafts "Western Stars" Into A Profound Musical Experience"
+author: "Joey Magidson"
+source: "The Hollywood Reporter"
+date: "2019-09-13"
+category: "Album Review"
+---
+
+When is a concert film not just a concert film? Why, when it's co-directed by Bruce Springsteen, of course! Having just debuted this evening at the Toronto International Film Festival, I'm no longer under embargo and can report that Western Stars is a profound and wonderful musical experience that will delight any Springsteen fan, but is a lovely 83 minutes of music for anyone who appreciates great songs. Loving The Boss is no prerequisite here, but it certainly doesn't hurt any. If the most recent Springsteen album of the same name struck your fancy, this is going to be something that absolutely thrills you to your core.
+
+A mix of concert footage and somewhat narrative moments, this flick is wholly unique, which is par for the course with The Boss. Of course, Western Stars is not just the title of the documentary, but that of Springsteen's most recent studio album. Instead of just filming a concert, he opted to perform it for a few select friends on a sprawling barn on his New Jersey property. With a 30 piece orchestra, he plays each song on the record, giving them a live spin, along with one phenomenal cover during the end credits that deserves to be a surprise. Between each tune, Springsteen appears in the open California desert, either with horses or behind the wheel of a car, musing on his existence. The themes of the album are expanded on, as are what he feels to be his personal flaws, along with how he's trying to adapt/cope. It's compelling and moving in equal measure to witness those moments, which are deeply personal to him. Then, the performances are just glorious, full of life and the joy of music. Springsteen co-directs the doc with Thom Zimny here, presumably lending his hand mostly for the dramatic western moments between songs.
+
+I absolutely adored this movie. The album already contains some gems, such as Tucson Train, Western Stars, and Chasin' Wild Horses. So, watching them live only elevates their power. The same goes for something like There Goes My Miracle, which has Springsteen's voice come alive. This version of the record is a whole new beast, perfect not just for fans but for anyone curious about what The Boss sounds like these days.
+
+Springsteen makes the flick incredibly personal, in particular during those in between moments. Sprinkled in with his voice over monologuing are home movies, pictures from childhood, and just sense memories that help elevate the emotional stakes. Making his directorial debut, you can tell the Western genre inspires him. Cowboys influence him greatly, essentially standing in as another sort of working class hero, which has long been his inspiration. Plus, as he talks about his emotional issues, it's hard not to feel like you're learning about the man himself. In that way, this is a remarkable look into an artist, who has recently begun to let folks in.
+
+Western Stars is a cinematic album on its own, so it easily translates to a movie. With a svelte under 90 minute running time, it doesn't overstay its welcome, that's for sure. The mixture of formats helps to give it an identity, allowing the final product to feel like much more than something that otherwise could be just a bonus feature on the box set for the musical release. It stakes its claim as a cinematic event, with a full on narrative within it.
+
+Opening next month after tonight's TIFF premiere, Western Stars is a must see for any Springsteen fan. An immensely satisfying concert film that also makes for a profound companion piece to Bruce Springsteen's memoir, as well as Springsteen on Broadway, it really scratches an itch for fans of the legendary musician. Between all of that and Blinded by the Light earlier this summer, the last year and change has been a good one for fans of The Boss. This is not to be missed! Once it hits theaters next month, you're going to be in for a real treat...

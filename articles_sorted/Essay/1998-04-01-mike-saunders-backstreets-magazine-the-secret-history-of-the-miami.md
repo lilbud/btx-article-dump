@@ -1,0 +1,33 @@
+---
+title: "The Secret History of the Miami Horns"
+author: "Mike Saunders"
+source: "Backstreets Magazine"
+date: "1998-04-01"
+category: "Essay"
+---
+
+A question by Ulf Ellestrom on Lucky Town Digest regarding the 1976/1977 Miami Horns attracted my attention. I regularly write about Bruce and Southside for the UK fanzine The Ties That Bind and for the past 12 years I've researched the history of the Asbury Jukes to exhaustion, particularly the 1975-1978 period and the links to Bruce, Miami Steve and the E Streeters.
+
+I've been lucky enough to interview Southside at length on a couple of occasions and have put together a highly detailed Jukes Family Tree, listing just about everybody who has ever played with the band from 1975 to the present day, including, of course, a million horn players. I'd now like to contribute my interpretation of events, which I believe to be the most accurate. For the record, YES there were two sets of Miami Horns operating during the period in question (one with Bruce, the other with Southside), and NO they weren't the players listed in the Backstreets book.
+
+In January 1976, Miami Steve Van Zandt came off the Born To Run tour and set about finding a record deal for the Asbury Jukes, who had just begun their second year as house band at the Stone Pony in Asbury Park. Although a full- time E Streeter since the previous July, he continued to lead a double life as singer, guitarist, songwriter, manager and (soon-to-be) producer and arranger for the band, which he and Southside had co-founded in the early part of 1975.
+
+At the time, the Jukes horn section consisted of just one permanent member – sax player Carlo Novi. "We tried gettin' horn players, they'd come and go, we could never get the ones we wanted", Southside told me in 1991. A bunch of high school kids were subsequently drafted in to provide horn accompaniment for the recording of a four-song demo tape which was then circulated to record companies. "They were scared to death. Steven was great with them. He taught 'em all the parts, they wrote it all out and they did the best they could."
+
+Before too long, a verbal agreement was reached with Epic, but with the finalising of contracts likely to take several weeks, and with producer Miami Steve committed to another E Street Band tour from March 25, the band somehow scraped together enough cash to finance the recording of their debut album I Don't Want To Go Home by themselves, once again using a bunch of hired hands as a temporary horn section, namely Deacon Earl Gardner and Rick Gazda on trumpets, Bob Malach and Bill Zacagni on saxes and Louis Parente on trombone – the first incarnation of the Miami Horns.
+
+On May 30, the Jukes celebrated the imminent release of I Don't Want To Go Home with a famous showcase gig at the Stone Pony. Broadcast live on nine radio stations in the northeast, the concert featured guest appearances by Ronnie Spector, Lee Dorsey, Bruce, Miami Steve and various members of the E Street Band. By this time, a permanent Asbury Jukes horn section had been formed, comprising Carlo Novi (sax) Ed Manion (sax), Tony Palligrossi (trumpet) and Rick Gazda (trumpet). They eventually grew into a five-piece with the arrival of charismatic trombone player Richie "La Bamba" Rosenberg in November.
+
+In the summer of 1976, the Asbury Jukes ended their Stone Pony residency and began to tour nationally. In July, they performed at the CBS convention in Los Angeles, where Bruce (clean-shaven and largely unrecognised) joined them onstage for a version of I Don't Want To Go Home. Shortly afterwards, Southside picked up a throat virus which rendered him temporarily speechless and caused the cancellation of numerous Jukes live appearances, including their New York City debut at the Bottom Line, which was rescheduled for October.
+
+With Southside and the band temporarily off the road, Bruce borrowed the Novi/Manion/Palligrossi/Gazda Miami Horns for his shows at the Monmouth Arts Center in Red Bank on August 1-3 and 5-7 1976, and presumably also for his gig at the Palace Theater in Waterbury, Connecticut on August 21\. However, by the time Bruce began his fall tour in Phoenix, Arizona on September 26, Southside was fully recovered, the Jukes had resumed their punishing 200-gigs-a-year schedule, and an entirely separate Miami Horns had been formed to accompany the E Street Band on the road. During an interview with Richard Neer of WNEW- FM in New York on November 6, shortly after the tour ended, Bruce confirmed "yeah, the Miami Horns played with us in Red Bank [but] these cats are from Philly, [they're] friends of the Asbury Jukes horn section."
+
+Researchers for the Backstreets book family tree and concert listings probably referred to the liner notes of I Don't Want To Go Home and assumed that the Gardner/Gazda/Malach/Zacagni/Parente Miami Horns played with both the Asbury Jukes and the E Street Band in 1976 and 1977. It's an understandable mistake to make, but this is not the case.
+
+With the exception of Rick Gazda (who later joined the Jukes on a full-time basis), this particular collection of Miami Horns went their separate ways in March 1976 once the backing tracks for the album had been laid down, although Bob Malach briefly returned a year later to play a solo on the second Jukes album, This Time It's For Real.
+
+Because Bruce's nightly band introductions only referred to them collectively as the Miami Horns, the identities of these cats from Philly remained a mystery. Also, because they only appeared onstage for a handful of songs at each show, photographs which include both band and horn section are comparatively rare. The few that I have seen from this period (in back issues of Creem and Melody Maker among others) confirm that the E Street Miami Horns consisted of one sax, one trombone and two trumpet players. This corresponds exactly with the March 1977 Boston Evening Globe review mentioned by Ulf Ellestrom which identified the musicians as Ed De Palma (sax), Dennis Orlock (trombone), John Binkley (trumpet) and Steve Paraczky (trumpet). While it's entirely possible that the 1977 horn section differed partly or completely from the 1976 line-up, I feel it's reasonably safe to assume that these four guys accompanied the E Street Band on both tours.
+
+Needless to say, if anybody out there can shed further light on this subject, I'd love to hear from you, particularly if you're a horn-playing thirtysomething high school graduate or if your surname is Gardner, Malach, Zacagni, Parente, De Palma, Orlock, Benkley or Paraczky!
+
+Mike Saunders, April 1998

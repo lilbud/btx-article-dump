@@ -14,7 +14,10 @@ from psycopg.rows import dict_row
 from slugify import slugify
 from thefuzz import process
 
-base_folder = Path(Path(__file__).parent, "articles")
+base_folder = Path(Path(__file__).parent, "articles_orig")
+sorted = Path(
+    r"C:\Users\bvw20\Documents\Software\Programming\Python\Projects\btx-article-dump\articles_sorted",
+)
 
 
 def format_md(file: Path, h: html2text.HTML2Text) -> str:
@@ -104,18 +107,26 @@ def print_article_info():
                 short_title = slugify(" ".join(title.split("-")[:6]))
 
                 if author == source:
-                    filename = slugify(" ".join([date[1], source[1], short_title]))
-                else:
-                    filename = slugify(
-                        " ".join([date[1], author[1], source[1], short_title]),
+                    filename = (
+                        f"{slugify(' '.join([date[1], source[1], short_title]))}.md"
                     )
+                else:
+                    filename = f"{slugify(' '.join([date[1], author[1], source[1], short_title]))}.md"
 
                 print(filename)
 
-                try:
-                    file.rename(f"{filename}.md")
-                except FileExistsError:
-                    file.rename(f"{filename}_1.md")
+                with Path.open(
+                    Path(sorted, category[1].strip('"'), filename),
+                    "w",
+                ) as f:
+                    f.write(contents)
+
+                # Path.open(
+                #     Path(
+                #         r"C:\Users\bvw20\Documents\Software\Programming\Python\Projects\btx-article-dump\articles_renamed",
+                #         filename,
+                #     ),
+                # )
 
     # conn = psycopg.connect(
     #     "postgresql://postgres:password@localhost:5432/articledump",

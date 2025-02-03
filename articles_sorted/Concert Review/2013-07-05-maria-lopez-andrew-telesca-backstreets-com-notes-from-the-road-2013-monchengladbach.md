@@ -1,0 +1,25 @@
+---
+title: "Notes From The Road 2013: Mönchengladbach"
+author: "Maria Lopez, Andrew Telesca"
+source: "Backstreets.com"
+date: "2013-07-05"
+category: "Concert Review"
+---
+
+Fighting through traffic for hours in the rural countryside surrounding Borussia Park in Mönchengladbach, Germany and bursting through the doors just in time to hear the closing chords of "Jackson Cage" is one way to begin a show with a pounding heart. Bruce did his part to maintain the energy of the show's start with rousing versions of "My Love Will Not Let You down" and "Better Days."
+
+It would become a night of requests. After jokingly accusing the fans of trying to stump the E Street Band, Bruce and company delivered the rocking tour premieres of "Shake, Rattle, and Roll" and "One Way Street", the latter a special request from Little Steven. Bruce was ready to collect on a wager after putting "ten Euros on the E Street Band" before "Mary's Place." He thanked the crowd for the help with song selection, saying he "didn't know what we were going to play tonight" before settling into a familiar trio of "Wrecking Ball", "Badlands", and "Death to My Hometown."
+
+Roy showed off his skills during a heartbreaking intro to "Point Blank" while Bruce was fishing for a sign for later use. After Little Steven's haunting guitar solo to close out the song, Bruce flipped the sign for "Trapped" that he had stashed away. The crowd joined in, sending echoes through the stadium.
+
+Jake's solo brought back memories of Clarence up on stage, mesmerizing the crowd. A long guitar intro led into "The Promised Land", after which Bruce spotted a fan with a sign indicating that it was his 35th show and left him with a hug and a harmonica.
+
+Bruce started desperately asking, "Where's that German beer?" He let the crowd have the first verse of "Hungry Heart", finishing his beer and carrying on, saying he was "high as a kite." Curtis King was called to the spotlight for "Man's Job", another premiere, during which he was cornered by Cindy Mizelle and Michelle Moore in a battle of vocals. After the E Street Choir had its fun, the guitars came out to play for "Because the Night" and "Candy's Room."
+
+Nils' signature solo during "Because the Night" impressed as always, sending the crowd into an uproar as he started dancing and spinning. After hopping on the piano for "She's the One", Bruce urged the band to "follow me" as he took a "Leap of Faith", punctuated by an extended outro.
+
+"Come on Silvio", Bruce called before blasting into "Rosie" and forcing the German crowd onto their feet and into dance. The band was joined by "Germany's own, incredible Little Stevens!": three women in bandanas who danced with Steve and wiped Bruce's sweaty brow with sponges. The real Little Steven even showed subtle signs of joining the band's two-step to close "Shackled and Drawn."
+
+Crowd favorite "Waitin' on a Sunny Day" featured an impressive young volunteer who never missed a beat in leading the crowd in a sing-along and cueing Jake's solo. "Sitting in for his dad" on "Radio Nowhere" was Jay Weinberg, who brought all of the energy and hair-flailing that we remember from the Working on a Dream Tour. A full-band "Thunder Road" featuring accentuated piano and violin for the opening verse, closed out the main set.
+
+The sun was finally setting when "Rocky Ground" opened the six-song encore, after a long absence from the set. Following "Born in the U.S.A." and "Born to Run", Bruce began breaking cultural and interspecies stereotypes, pulling a self-proclaimed "chubby girl" and what can only be perceived as a person-sized rabbit on stage along with two others to go "Dancing in the Dark" and try their hands at the guitar. Bruce offered a unique show of his own during "Tenth Avenue", shedding his shirt in favor of a sweat- and water-soaked white tee. The show concluded with an energetic "Rockin' all Over the World" that had the crowd singing and dancing all the way out the door.

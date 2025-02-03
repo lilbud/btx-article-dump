@@ -1,0 +1,31 @@
+---
+title: "Inside Bruce Springsteen and Taylor Swift's War on Scalpers, Ticket Bots"
+author: "Steve Knopper"
+source: "Rolling Stone"
+date: "2017-09-11"
+category: "News"
+---
+
+New software finally putting a dent in secondary ticket market – but not without controversy
+
+Bruce Springsteen's team was cautiously optimistic on August 30th, as the first round of tickets went on sale for "Springsteen on Broadway", a run of 79 solo acoustic shows in a small theater in New York. Springsteen knew demand for tickets would be enormous, and wanted to make sure they did not go to brokers, many of whom use advanced technology to snatch up 30 to 50 percent of tickets to high-demand shows, then resell them on sites like StubHub.
+
+Springsteen decided to try out Verified Fan, a new service that asks fans to sign up before tickets go on sale; after being vetted by the service, they receive a code that places them in a smaller pool, shutting out scalpers in the process.
+
+It worked: The next day, only about three percent of the Springsteen tickets made it to secondary-market sites. That's compared to seven to twenty percent of the tickets on his 2016 tour, according to TicketIQ, a site that compiles the best ticket resale deals for concertgoers.
+
+The Broadway sale was a major victory for the concert industry, which has been grappling with scalpers for years. The ticket-resale market, reportedly worth $8 billion, depends on "bots", or automating software, to scoop up hundreds of tickets at a time. Verified Fan, though, has its own algorithm, which approves buyers by looking at their data, including e-mail addresses and past ticket purchases. Since Dead & Company started using the service last year, more than 50 other artists have gotten on board, including Foo Fighters and Harry Styles, with results similar to Springsteen's. "It's like a TSA precheck to make sure those registering for these presales are fans", says Brian Cross, a manager for LCD Soundsystem.
+
+The system has caused some controversy. The same week as the Springsteen sale, Taylor Swift announced she would be using the service for her first tour since 2015. Swift's plan had a twist: While Springsteen's ticket-buyers are picked purely by algorithm, Swift's fans can increase their chances of scoring tickets. Their place in line is determined by "boosts." Those boosts can be earned by tweeting and streaming – and also by buying merchandise. A $75 hoodie and a $60 gold-snake ring are among the items that will give fans priority in line. Several industry veterans criticized the plan to Rolling Stone. "It's about profit", says Gary Adler, executive director of the National Association of Ticket Brokers. "You don't have to look too deep to know it's designed to make you buy merchandise. 'Beating the bots' is a very clever public-relations move to hide the profit motive, because we're easy targets."
+
+Swift's representative vehemently disagreed, arguing the plan will put more hardcore fans in seats: "Taylor rewarding her fans for posting selfies, watching YouTube videos and downloading her albums, things that her fans are already doing, is a great thing."
+
+Brokers shut out of "Springsteen On Broadway" and other Verified Fan shows accuse Ticketmaster of trying to corner the lucrative secondary ticket market for itself. The ticketing giant has its own reseller, TicketsNow, and offers marked-up seats through TM+; for U2's University of Phoenix stadium show September 19th, ticketmaster.com offers face-value seats for $165 just a few rows back from scalped tickets for $563. "Ticketmaster is trying to do everything they can to monopolize both the primary and the secondary market"says Ram Silverman, a longtime ticket broker who owns Golden Tickets in Plano, Texas. "If a good show sells out in five minutes, does that mean you should be limited to only using TM+ because they tell you to? That's ridiculous."
+
+None of this matters to touring stars like Pearl Jam, Adele and Eric Church, who prefer to stop scalpers outright rather than trying to keep the revenue from resales. "I would recommend any service that would eliminate scalping"says Stuart Ross, a veteran manager and tour director for Tom Waits, who has opposed all forms of ticket reselling for years. "Tom would not want to go into any situation where scalpers have free access to tickets. As long as there's an option, you should use the option."
+
+Many anti-scalping artists, including Waits, have used another Ticketmaster option, paperless ticketing, which requires fans to show IDs and credit cards to get into a venue. Although the practice is especially effective in cutting off scalping for smaller shows—it can be unwieldly for fans waiting in line at arena and stadium concerts—it was unavailable for "Springsteen On Broadway"
+
+because New York's state legislature voted to essentially ban paperless ticketing a few years ago. "I would much rather stop a scalper from buying tickets in the first place than have to do the cancelations and scrubbings and whatnot that we did last time", says Fielding Logan, one of Church's managers, who oversees ticketing.
+
+Church's management office keeps a "straight-up scalper blacklist", as Logan calls it, and has employees dedicated to identifying buying patterns of resellers. Earlier this year, the office canceled the sale of more than 25,000 tickets. Logan, who heads the program, points to red flags, like a bulk order from Brooklyn for a Louisville, Kentucky, show. "There is definitely an element of 'I know it when I see it', " says Logan. "Eric's not trying to change the world. He just wants to take care of his fans and get his house in order. So part of the strategy here is to be the biggest pain in the ass for scalpers."
