@@ -83,15 +83,15 @@ def unwrap_articles():
                         f1.write(ftfy.fix_text(contents.strip()))
 
 
-def article_renaming():
+def articles_to_db():
     articles = []
 
-    conn = psycopg.connect(
-        "postgresql://postgres:password@localhost:5432/articledump",
-        row_factory=dict_row,
-    )
+    # conn = psycopg.connect(
+    #     "postgresql://postgres:password@localhost:5432/articledump",
+    #     row_factory=dict_row,
+    # )
 
-    cur = conn.cursor()
+    # cur = conn.cursor()
 
     for folder in base_folder.iterdir():
         # print(folder.name)
@@ -115,13 +115,12 @@ def article_renaming():
                 else:
                     date = None
 
-                cur.execute(
-                    """INSERT INTO articles (category, date, source, author, title) VALUES (%s, %s, %s, %s, %s)""",
-                    [category, date, source, author, title],
-                )
+                # cur.execute(
+                #     """INSERT INTO articles (category, date, source, author, title) VALUES (%s, %s, %s, %s, %s)""",
+                #     [category, date, source, author, title],
+                # )
 
-                conn.commit()
+                # conn.commit()
 
 
-# def articles_to_db(df: pd.DataFrame)
-article_renaming()
+articles_to_db()

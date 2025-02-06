@@ -1,0 +1,7 @@
+ftfy
+html2text
+slugify
+thefuzz
+bs4
+dateparser
+psycopg
