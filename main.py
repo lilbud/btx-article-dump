@@ -83,8 +83,15 @@ def unwrap_articles():
                         f1.write(ftfy.fix_text(contents.strip()))
 
 
-def print_article_info():
+def article_renaming():
     articles = []
+
+    conn = psycopg.connect(
+        "postgresql://postgres:password@localhost:5432/articledump",
+        row_factory=dict_row,
+    )
+
+    cur = conn.cursor()
 
     for folder in base_folder.iterdir():
         # print(folder.name)
@@ -97,65 +104,24 @@ def print_article_info():
                     with Path.open(file, "r", encoding="cp1252") as f:
                         contents = "".join(f.readlines())
 
-                title = re.search(r"title\: (.*)", contents)
-                author = re.search(r"author\: (.*)", contents)
-                source = re.search(r"source\: (.*)", contents)
-                date = re.search(r"date\: (.*)", contents)
-                category = re.search(r"category\: (.*)", contents)
+                title = re.search(r"title\: (.*)", contents)[1].strip('"')
+                author = re.search(r"author\: (.*)", contents)[1].strip('"')
+                source = re.search(r"source\: (.*)", contents)[1].strip('"')
+                date = re.search(r"date\: (.*)", contents)[1].strip('"')
+                category = re.search(r"category\: (.*)", contents)[1].strip('"')
 
-                title = slugify(title[1])
-                short_title = slugify(" ".join(title.split("-")[:6]))
-
-                if author == source:
-                    filename = (
-                        f"{slugify(' '.join([date[1], source[1], short_title]))}.md"
-                    )
+                if date != "Unknown" and date != "Various":
+                    date = datetime.datetime.strptime(date, "%Y-%m-%d").date()
                 else:
-                    filename = f"{slugify(' '.join([date[1], author[1], source[1], short_title]))}.md"
+                    date = None
 
-                print(filename)
+                cur.execute(
+                    """INSERT INTO articles (category, date, source, author, title) VALUES (%s, %s, %s, %s, %s)""",
+                    [category, date, source, author, title],
+                )
 
-                with Path.open(
-                    Path(sorted, category[1].strip('"'), filename),
-                    "w",
-                ) as f:
-                    f.write(contents)
-
-                # Path.open(
-                #     Path(
-                #         r"C:\Users\bvw20\Documents\Software\Programming\Python\Projects\btx-article-dump\articles_renamed",
-                #         filename,
-                #     ),
-                # )
-
-    # conn = psycopg.connect(
-    #     "postgresql://postgres:password@localhost:5432/articledump",
-    #     row_factory=dict_row,
-    # )
-
-    # cur = conn.cursor()
-
-    # for i in df.itertuples():
-    #     print(i.Index)
-
-    # for i in df.itertuples(index=False):
-    #     category = i.category
-    #     date = i.date
-    #     source = i.source
-    #     author = i.author
-    #     title = i.title
-
-    #     if date != "Unknown" and date != "Various":
-    #         date = datetime.datetime.strptime(i.date, "%Y-%m-%d").date()
-    #     else:
-    #         date = None
-
-    #     cur.execute(
-    #         """INSERT INTO articles (category, date, source, author, title) VALUES (%s, %s, %s, %s, %s)""",
-    #         [category, date, source, author, title],
-    #     )
-
-    #     conn.commit()
+                conn.commit()
 
 
-print_article_info()
+# def articles_to_db(df: pd.DataFrame)
+article_renaming()
