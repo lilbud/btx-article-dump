@@ -1,6 +1,6 @@
-import datetime
 import json
 import re
+from datetime import datetime
 from pathlib import Path
 
 import ftfy
@@ -83,6 +83,23 @@ def unwrap_articles():
                         f1.write(ftfy.fix_text(contents.strip()))
 
 
+def article_metadata(contents: str) -> dict:
+    meta = {}
+
+    meta["title"] = re.search(r"title\: (.*)", contents)[1].strip('"')
+    meta["author"] = re.search(r"author\: (.*)", contents)[1].strip('"')
+    meta["source"] = re.search(r"source\: (.*)", contents)[1].strip('"')
+    meta["date"] = re.search(r"date\: (.*)", contents)[1].strip('"')
+    meta["category"] = re.search(r"category\: (.*)", contents)[1].strip('"')
+
+    try:
+        meta["date"] = datetime.strptime(meta["date"], "%Y-%m-%d").strftime("%Y-%m-%d")
+    except ValueError:
+        meta["date"] = None
+
+    return meta
+
+
 def articles_to_db():
     articles = []
 
@@ -104,23 +121,22 @@ def articles_to_db():
                     with Path.open(file, "r", encoding="cp1252") as f:
                         contents = "".join(f.readlines())
 
-                title = re.search(r"title\: (.*)", contents)[1].strip('"')
-                author = re.search(r"author\: (.*)", contents)[1].strip('"')
-                source = re.search(r"source\: (.*)", contents)[1].strip('"')
-                date = re.search(r"date\: (.*)", contents)[1].strip('"')
-                category = re.search(r"category\: (.*)", contents)[1].strip('"')
-
-                if date != "Unknown" and date != "Various":
-                    date = datetime.datetime.strptime(date, "%Y-%m-%d").date()
-                else:
-                    date = None
-
-                # cur.execute(
-                #     """INSERT INTO articles (category, date, source, author, title) VALUES (%s, %s, %s, %s, %s)""",
-                #     [category, date, source, author, title],
-                # )
-
-                # conn.commit()
+                metadata = article_metadata(contents)
 
 
-articles_to_db()
+def article_sorting():
+    for folder in base_folder.iterdir():
+        # print(folder.name)
+        for file in folder.iterdir():
+            if file.suffix == ".md":
+                try:
+                    with Path.open(file, "r", encoding="utf-8") as f:
+                        contents = "".join(f.readlines())
+                except (UnicodeEncodeError, UnicodeDecodeError):
+                    with Path.open(file, "r", encoding="cp1252") as f:
+                        contents = "".join(f.readlines())
+
+                metadata = article_metadata(contents)
+
+
+article_sorting()
