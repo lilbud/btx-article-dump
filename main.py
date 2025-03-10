@@ -100,30 +100,6 @@ def article_metadata(contents: str) -> dict:
     return meta
 
 
-def articles_to_db():
-    articles = []
-
-    # conn = psycopg.connect(
-    #     "postgresql://postgres:password@localhost:5432/articledump",
-    #     row_factory=dict_row,
-    # )
-
-    # cur = conn.cursor()
-
-    for folder in base_folder.iterdir():
-        # print(folder.name)
-        for file in folder.iterdir():
-            if file.suffix == ".md":
-                try:
-                    with Path.open(file, "r", encoding="utf-8") as f:
-                        contents = "".join(f.readlines())
-                except (UnicodeEncodeError, UnicodeDecodeError):
-                    with Path.open(file, "r", encoding="cp1252") as f:
-                        contents = "".join(f.readlines())
-
-                metadata = article_metadata(contents)
-
-
 def article_sorting():
     for folder in base_folder.iterdir():
         # print(folder.name)
@@ -137,6 +113,8 @@ def article_sorting():
                         contents = "".join(f.readlines())
 
                 metadata = article_metadata(contents)
+
+                print(metadata)
 
 
 article_sorting()
