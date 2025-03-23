@@ -205,7 +205,7 @@ def generate_sheet() -> None:
         current = list(meta.values())
         current.append(page)
 
-        url = f"[Link](https://github.com/lilbud/btx-article-dump/{Path(file.parent, file.name).as_posix()})"
+        url = f"https://github.com/lilbud/btx-article-dump/{Path(file.parent, file.name).as_posix()}"  # noqa: E501
         current.append(url)
 
         sheet.append(current)
