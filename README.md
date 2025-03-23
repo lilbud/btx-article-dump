@@ -35,12 +35,14 @@ Eulogy: 1
 
 ## A Note About Structure
 
-The layout might be a bit of a mess, no real nice way to do it. I created a spreadsheet of all the articles, which is [here](). You can filter by article type as well as author and category.
+The layout might be a bit of a mess, no real nice way to do it. I created a spreadsheet of all the articles, which is [here](https://docs.google.com/spreadsheets/d/1Q1MAtXpeRgChFk1YMZ40GQM6_X0Ir2AXUmrI75BQqRY/edit?usp=sharing). You can filter by article type as well as author and category, or just search using CTRL+F or the Sheets search.
 
 There is also a python script included, which was used for this project. It's something of a mess, as it was thrown together while I went. If you replace the paths then you could also mess around with the renaming if you wanted.
 
----
+## Conclusion
 
 As of publishing this repo, it should be mostly "done". Only one article from the thread could not be found anywhere, which is listed in the `missing.md` file. I might at some point look into converting everything to PDF and throwing that up as an alternate download option, but for now the MD files should do.
+
+The Google Sheet is something of a half-measure. Seems to be the most user-friendly thing at the moment.
 
 Also this is hopefully the first step towards a larger Bruce article/media archive thing. I have some additional plans and projects I'm working on, just have to finish and find the best way to present them.

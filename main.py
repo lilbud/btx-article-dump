@@ -205,7 +205,9 @@ def generate_sheet() -> None:
         current = list(meta.values())
         current.append(page)
 
-        url = f"https://github.com/lilbud/btx-article-dump/{Path(file.parent, file.name).as_posix()}"  # noqa: E501
+        url = f"https://github.com/lilbud/btx-article-dump/blob/main/{Path(file.parent, file.name).as_posix()}"  # noqa: E501
+
+        url = url.replace("[", "%5B").replace("]", "%5D")
         current.append(url)
 
         sheet.append(current)
