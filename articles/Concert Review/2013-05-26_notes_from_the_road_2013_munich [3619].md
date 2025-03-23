@@ -1,0 +1,17 @@
+---
+title: "Notes From The Road 2013: Munich"
+author: "Brenda VanHorn"
+source: "Backstreets.com"
+date: "2013-05-26"
+category: "Concert Review"
+---
+
+On this unseasonably cold evening, after eight straight hours of rain leading up to the outdoor concert at Munich's Olympiastadion, there was really no choice but for Bruce to start with "Who'll Stop the Rain" --- and he did, solo acoustic. Unfortunately, the rain did not stop. But neither did the show.
+
+While the band took their places on stage, Bruce strolled out onto the center riser, held out his hands and asked, "What rain?" to the delight of his plastic poncho-clad audience.
+
+A few songs in, a delightful carnival face sign hoisted by a kid sitting on his dad's shoulders caught Bruce's eye, and he brought up the sign --- and the kid! The request was for "Seaside Bar Song", and it set the Dance Party stage for the rest of the night. No one would have blamed Bruce on such a blustery night to make it a quick show, but he was having none of Mother Nature's nonsense. He flipped the sign around and gave us a double-shot: on the other side was a request for "Rosalita."
+
+During "Spirit in the Night", Springsteen laid down a challenge to the weather: "We don't care about the rain", he said, "let it rain, sleet, snow, we deliver!" And deliver he did, announcing the next surprise of the evening --- that tonight, he and the band would play Born in the U.S.A. in its entirety from start to finish. "Born in the U.S.A.", a rocking "Cover Me", "Darlington County"... it was a perfect choice for a crowd that needed to keep moving. "I'm on Fire" was so hot that the rain close to the stage turned into steam (though that could have been the onstage heaters). "Bobby Jean" is clearly a fan favorite in Germany, as the whole crowd went wild and sang along. On "Glory Days", Bruce implored Steve to come out into the rain with him. "He's never been in the rain before", Bruce said. Steve replied, "We can't feel our fingers!" The album performance finished with the Munich audience singing the resounding chorus of "My Hometown." The Born in the U.S.A. tour in 1984 was when Nils Lofgren joined the band, and he truly owned this portion of the show. We didn't see any spinning --- he might well have slid off the wet stage --- but the playing was masterful, and he was a star who reminded this audience why Bruce keeps two guitar players.
+
+Ending the main set with "Badlands", Bruce kept the crowd singing and dancing through the rest of the show despite the ceaseless rain. "Pay Me My Money Down", a go-to song for the job ever since it reliably separated arses from seats in Australia, kicked off the encore. After "Tenth Avenue Freeze-out"Bruce incredulously asked the cheering audience, "It's cold and wet... you can't really want any more?" But of course everyone did, and we were rewarded with another surprise request, a classic cover of John Fogerty's "Rockin' All Over the World", followed by "Twist and Shout" to end the night. It wasn't the longest show, and the cold and rain wreaked havoc on the instruments and players; there was no throwing of guitars, as it was just too wet for even an accomplished guitar-catcher like Kevin Buell. But despite the forces Mother Nature threw at them that might have made lesser bands call it off, Bruce and the E Street Band delivered a performance that will leave Munich talking for years.

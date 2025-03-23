@@ -1,33 +1,25 @@
-import json
 import re
 from datetime import datetime
 from pathlib import Path
 
 import ftfy
 import html2text
-import httpx
 import pandas as pd
-import psycopg
-from bs4 import BeautifulSoup as bs4
-from dateparser import parse
-from psycopg.rows import dict_row
 from slugify import slugify
-from thefuzz import process
 
 base_folder = Path(Path(__file__).parent, "articles_orig")
-sorted = Path(
-    r"C:\Users\bvw20\Documents\Software\Programming\Python\Projects\btx-article-dump\articles_sorted",
-)
 
 
 def format_md(file: Path, h: html2text.HTML2Text) -> str:
+    """Markdown format."""
     f = Path.open(file, encoding="utf-8")
     return h.handle(ftfy.fix_text("\n".join([line.strip() for line in f.readlines()])))
 
 
-def html_to_md():
+def html_to_md() -> None:
+    """Parse through the original BTX html dumps and convert to markdown."""
     page = Path(
-        r"C:\Users\bvw20\Documents\Personal\Projects\Bruce Stuff\Websites\BTX\Articles Thread",
+        r"Articles Thread",
     )
 
     h = html2text.HTML2Text()
@@ -41,7 +33,8 @@ def html_to_md():
                 f.write(formatted)
 
 
-def unwrap_articles():
+def unwrap_articles() -> None:
+    """Unwrap article files from 80 char width."""
     for folder in base_folder.iterdir():
         print(folder.name)
 
@@ -84,6 +77,7 @@ def unwrap_articles():
 
 
 def article_metadata(contents: str) -> dict:
+    """Pull article information from header."""
     meta = {}
 
     meta["title"] = re.search(r"title\: (.*)", contents)[1].strip('"')
@@ -95,26 +89,158 @@ def article_metadata(contents: str) -> dict:
     try:
         meta["date"] = datetime.strptime(meta["date"], "%Y-%m-%d").strftime("%Y-%m-%d")
     except ValueError:
-        meta["date"] = None
+        meta["date"] = "Unknown"
+
+    try:
+        meta["subcategory"] = re.search(r"subcategory\: (.*)", contents)[1].strip('"')
+    except TypeError:
+        meta["subcategory"] = None
 
     return meta
 
 
-def article_sorting():
-    for folder in base_folder.iterdir():
-        # print(folder.name)
-        for file in folder.iterdir():
-            if file.suffix == ".md":
-                try:
-                    with Path.open(file, "r", encoding="utf-8") as f:
-                        contents = "".join(f.readlines())
-                except (UnicodeEncodeError, UnicodeDecodeError):
-                    with Path.open(file, "r", encoding="cp1252") as f:
-                        contents = "".join(f.readlines())
+def replace_album(album: str) -> str:
+    """Fix incorrect article names."""
+    match album:
+        case "Greetings From Asbury Park, NJ":
+            return "Greetings From Asbury Park, N.J."
+        case "Born In The USA":
+            return "Born In The U.S.A."
+        case "Live 1975-1985":
+            return "Live 1975-85"
+        case "Devils and Dust":
+            return "Devils & Dust"
+        case "The Wild, The Innocent and The E Street Shuffle":
+            return "The Wild, The Innocent & The E Street Shuffle"
+        case _:
+            return album
 
-                metadata = article_metadata(contents)
 
-                print(metadata)
+albums = [
+    "Greetings From Asbury Park, N.J.",
+    "Greetings From Asbury Park, NJ",
+    "The Wild, The Innocent & The E Street Shuffle",
+    "The Wild, The Innocent and The E Street Shuffle",
+    "Born To Run",
+    "Darkness On The Edge Of Town",
+    "The River",
+    "Nebraska",
+    "Born In The U.S.A.",
+    "Born In The USA",
+    "Live 1975-85",
+    "Live 1975-1985",
+    "Tunnel Of Love",
+    "Human Touch",
+    "Lucky Town",
+    "Greatest Hits",
+    "The Ghost Of Tom Joad",
+    "Tracks",
+    "The Rising",
+    "The Essential",
+    "Devils & Dust",
+    "Devils and Dust",
+    "We Shall Overcome",
+    "Magic",
+    "Working On A Dream",
+    "The Promise",
+    "Wrecking Ball",
+    "High Hopes",
+    "The Ties That Bind",
+    "Chapter And Verse",
+    "Western Stars",
+    "Letter To You",
+    "Only The Strong Survive",
+]
 
 
-article_sorting()
+def article_renaming(folder: str) -> None:
+    """Rename article file based on metadata."""
+    for file in Path.glob(Path(sorted, folder), "**/*.md"):
+        content = "\n".join([line.strip() for line in file.open().readlines()])
+
+        meta = article_metadata(content)
+
+        orig_name = re.sub(r"\_", "", file.stem)
+
+        if meta["source"] == meta["author"]:
+            new_name = f"{meta['date']}_{slugify(meta['author'])}"
+        else:
+            new_name = (
+                f"{meta['date']}_{slugify(meta['author'])}_{slugify(meta['source'])}"
+            )
+
+        if not Path.exists(
+            Path(file.parent, f"{new_name} [{orig_name}].md"),
+        ):
+            file.rename(
+                f"{file.parent}\\{new_name} [{orig_name}].md",
+            )
+        else:
+            print(file.name)
+
+
+def article_sorting(folder: str) -> None:
+    """Sort articles by category."""
+    for file in base_folder.iterdir():
+        content = "\n".join([line.strip() for line in file.open().readlines()])
+
+        meta = article_metadata(content)
+
+        if meta["category"] == folder:
+            with Path.open(Path(sorted, folder, file.name), "w") as new_file:
+                new_file.write(content)
+
+
+def generate_sheet() -> None:
+    """Generate .csv sheet of articles."""
+    sheet = []
+
+    for file in Path.glob(Path(r"articles"), "**/*.md"):
+        content = "\n".join([line.strip() for line in file.open().readlines()])
+
+        meta = article_metadata(content)
+
+        page = re.search(r"\[(\d{3,4})\]", file.name)[1]
+
+        current = list(meta.values())
+        current.append(page)
+
+        url = f"[Link](https://github.com/lilbud/btx-article-dump/{Path(file.parent, file.name).as_posix()})"
+        current.append(url)
+
+        sheet.append(current)
+
+    df = pd.DataFrame(sheet)
+
+    df.columns = [
+        "title",
+        "author",
+        "source",
+        "date",
+        "category",
+        "subcategory",
+        "page",
+        "link",
+    ]
+
+    df = (
+        df[
+            [
+                "page",
+                "link",
+                "author",
+                "source",
+                "title",
+                "date",
+                "category",
+                "subcategory",
+            ]
+        ]
+        .set_index("page")
+        .sort_values("page")
+    )
+
+    df.to_csv("sheet.csv")
+
+
+generate_sheet()

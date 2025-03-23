@@ -1,0 +1,36 @@
+---
+title: "Bruce Springsteen's New Album, 'Western Stars', Is His Best In A Very Long Time"
+author: "Steven Hyden"
+source: "Uproxx"
+date: "2019-06-12"
+category: "Album Review"
+subcategory: "Western Stars"
+---
+
+Ever since the release of 2014's High Hopes --- the least consequential and all- around worst studio album of his 46-year career --- Bruce Springsteen has spent a lot of time publicly examining what it means to be Bruce Springsteen. He released a best-selling memoir, Born To Run, that delved deep into the relationship with his father --- long one of the touchstones of his songwriting --- and his private battles with mental illness. Then he mounted the wildly successful Springsteen On Broadway stage show, in which he likened to construction and performance of his "Boss" persona to a magic trick that conceals far more than it reveals.
+
+That's a lot of palate-cleansing in the past five years. Luckily during this period, Springsteen also made his 19th studio album, Western Stars, apparently shelving it for a period until it felt right to release. A self-described "return" to solo recordings "featuring character-driven songs and sweeping, cinematic orchestral arrangements", Western Stars seems ripe for comparison to Springsteen's other solo albums, 1982's Nebraska and 1995's The Ghost of Tom Joad. But in reality, it is quite unlike anything else he's ever done. If his recent meta-musings cleared some space between Springsteen the man and Springsteen the icon, Western Stars feels like the start of a new creative path unburdened by his own rich history.
+
+Springsteen has signaled ahead of time the influence of singer-songwriter records that came out of California in the late '60s and early '70s. That era's impact on Western Stars is obvious and pervasive --- the album evokes the strings-laden pop-country of Glen Campbell's Jimmy Webb-penned hits of the time, as well as the Dylanesque, post-Nashville Skyline cosmic Americana of artists like Fred Neil, Kris Kristofferson, Mickey Newbury, and early Townes Van Zandt. Even Neil Diamond --- whose florid, bombastic folk-pop peaked in popularity around the time that Bruce put out his first solo album in 1973 --- emerges as a reference point. Rather than lean into the trademark gravel of his stadium-rock prime, Springsteen sings throughout Western Stars in a full- throated croon supported by strings, mournful pianos, pedal-steel guitars, and waves upon waves of introspective melancholy.
+
+It feels, in a way, like a portal to an alternate career arc for Springsteen.
+
+What if he had started out in the '70s as a more straight-forward singer- songwriter, rather than the hybrid of Bob Dylan, Van Morrison, and Phil Spector that defined his early sound? Western Stars suggests that his gifts as a singer and writer of pop melodies --- both of which are weirdly underrated --- would have served him well.
+
+The songs themselves are still recognizably Springsteen. The title track is an instant classic of first-person narrative songwriting, sung from the perspective of an aging B-movie actor who sees his life slowly slipping away and can't decide how he feels about it. Springsteen tells the story in a soft voice, like he's still addressing an intimate theater audience. But his ability to draw the listener in with lyrical details that play like a movie in your head remains unparalleled:
+
+_Here in the canyons above Sunset, the desert don't give up the fight / A coyote with someone's Chihuahua in its teeth skitters 'cross my veranda in the night / Some lost sheep from Oklahoma sips her Mojito down at the Whiskey Bar / Smiles and says she thinks she remembers me from that commercial with the credit card"_
+
+Much of Western Stars exists in a zone between the restlessness of "Hungry Heart" and the old-guy wistfulness of "Girls In Their Summer Clothes." The protagonists are always in the process of picking up and leaving behind unsatisfying lives. "You start out slow in a sweet little bungalow, something two can call home / Then rain comes fallin', the blues come calling, and you're left with a heart of stone", he sings in "The Wayfarer." Marital discord also rocks the deceptively spritely "Tucson Train", in which a man heads down south after carrying around "nothin' for a long time." He winds up, in the manner of all Springsteen protagonists, working construction.
+
+These people would never identify as "a river that don't know where it's flowing." They aren't n'er-do-wells in search of excitement. These characters are more weathered, less cocksure, and nearly out of options --- they've aged along with the 69-year-old Springsteen. They're looking for a place to settle down that offers at least the promise of contentment. Though all roads ultimately lead to the "Moonlight Motel", the album's funereal closer.
+
+Springsteen, again, sets the scene evocatively: "Now the pool's filled with empty, eight-foot deep / Got dandelions growin' up through the cracks in the concrete." Perhaps if he had written "six-foot deep", it would be too on-the- nose.
+
+None of these sentiments are out of place on a Springsteen album. However, some long-time fans might bristle at how unlike the E Street Band Western Stars sounds. It's both slicker and more insular than his usual fare. (It's also his most flat-out gorgeous record since Tunnel of Love.) It's hard to imagine any track on Western Stars inspiring an arena full of people to hoist their beers and sing along. (Perhaps that's why Springsteen recently promised that a more conventional and arena-ready Springsteen album with the E Street Band will soon be in the works.) Ultimately, it's "just" a collection of songs, without any overriding political message.
+
+But to my ears Western Stars rivals 2007's Magic --- another "just songs" record --- as Springsteen's best LP of the 21st century. Like Magic, the new album thoughtfully addresses an issue that has plagued Springsteen since the early '90s, which is how to best present his songs sonically. On albums like 2002's The Rising and 2012's Wrecking Ball, Springsteen's attempts to appropriate modern production techniques sometimes came off as clunky and distracting. (Meanwhile, his reliance on Tom Morello for High Hopes was downright alarming.)
+
+But on Western Stars --- which Springsteen produced along with long-time collaborator Ron Aniello --- the cozy and grandiose retro sound comfortably bears the load of communicating the essential emotional truths of the songs.
+
+For the most part, this is not a "lyrics first" record, in the manner of Nebraska and Tom Joad. Those records unfolded like collections of short stories. This album feels more like staring at a sunset through a cracked windshield. A sustained mood piece, first and foremost, in which lyrical clichès about hitch-hiking and barhopping are underlined and intended to evoke the feeling of hearing a sad and lonesome song from 50 years ago on your car stereo. Springsteen hears that song, too, and he invites us to ride shotgun on a road trip to sweet oblivion.
