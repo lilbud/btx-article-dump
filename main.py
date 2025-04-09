@@ -35,45 +35,48 @@ def html_to_md() -> None:
 
 def unwrap_articles() -> None:
     """Unwrap article files from 80 char width."""
-    for folder in base_folder.iterdir():
-        print(folder.name)
+    file = Path(
+        r"C:\Users\bvw20\Documents\Software\Programming\Python\Projects\btx-article-dump\articles\other\1991-10-01_max_weinberg_at_the_astoria_cafe_london_[8607].md",
+    )
 
-        save_path = Path(base_folder, "split_unwrapped", folder.name)
-        Path.mkdir(save_path)
+    save_path = Path(
+        r"C:\Users\bvw20\Documents\Software\Programming\Python\Projects\btx-article-dump\articles\other",
+    )
 
-        for file in folder.iterdir():
-            print("\t", file.name)
-            new_contents = []
+    new_name = f"{file.name}_unwrapped.md"
 
-            filesave = Path(save_path, file.name)
+    print("\t", file.name)
+    new_contents = []
 
-            if file.suffix == ".md":
-                try:
-                    with Path.open(file, "r", encoding="utf-8") as f:
-                        contents = ftfy.fix_text("".join(f.readlines()))
-                except (UnicodeEncodeError, UnicodeDecodeError):
-                    with Path.open(file, "r", encoding="cp1252") as f:
-                        contents = ftfy.fix_text("".join(f.readlines()))
+    filesave = Path(save_path, file.name)
 
-                for i in contents.split("\n\n"):
-                    # first pass is to catch stray new lines and
-                    # double spaces and replace with single space
-                    first = re.sub(r"(\n|\s{2})", " ", i)
+    if file.suffix == ".md":
+        try:
+            with Path.open(file, "r", encoding="utf-8") as f:
+                contents = ftfy.fix_text("".join(f.readlines()))
+        except (UnicodeEncodeError, UnicodeDecodeError):
+            with Path.open(file, "r", encoding="cp1252") as f:
+                contents = ftfy.fix_text("".join(f.readlines()))
 
-                    # second pass is to ensure the format of the header remains
-                    # otherwise, it'll wrap to a single line
-                    second = re.sub(r"((Author|Source|Date)\:)", r"\n\1", first)
+        for i in contents.split("\n\n"):
+            # first pass is to catch stray new lines and
+            # double spaces and replace with single space
+            first = re.sub(r"(\n|\s{2})", " ", i)
 
-                    third = re.sub(r"\s$", "", second)
+            # second pass is to ensure the format of the header remains
+            # otherwise, it'll wrap to a single line
+            second = re.sub(r"((Author|Source|Date)\:)", r"\n\1", first)
 
-                    new_contents.append(third)
+            third = re.sub(r"\s$", "", second)
 
-                try:
-                    with Path.open(filesave, "w", encoding="utf-8") as f1:
-                        f1.write(ftfy.fix_text("\n\n".join(new_contents).strip()))
-                except UnicodeEncodeError:
-                    with Path.open(filesave, "w") as f1:
-                        f1.write(ftfy.fix_text(contents.strip()))
+            new_contents.append(third)
+
+        try:
+            with Path.open(filesave, "w", encoding="utf-8") as f1:
+                f1.write(ftfy.fix_text("\n\n".join(new_contents).strip()))
+        except UnicodeEncodeError:
+            with Path.open(filesave, "w") as f1:
+                f1.write(ftfy.fix_text(contents.strip()))
 
 
 def article_metadata(contents: str) -> dict:
@@ -245,4 +248,4 @@ def generate_sheet() -> None:
     df.to_csv("sheet.csv")
 
 
-generate_sheet()
+unwrap_articles()
